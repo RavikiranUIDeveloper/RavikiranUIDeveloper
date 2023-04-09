@@ -1,15 +1,10 @@
-### Hi there 👋
+### Hello there!! 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+I'm Ravikiran
+Full Stack web developer
+I’ve been working as a web developer for 4 years, and I’m passionate about everything that goes into developing interactive and responsive websites. Initially, my career started as a frontend developer at virtuous global solutions. Later then I received an opportunity in vSplash Techlabs Private Limited, During my time at VGS and vSplash I have worked with 200+ clients and websites, directly and indirectly, designing interactive websites and resolving responsive and other issues in websites according to the client requirements, During my 4 years of career I have worked on (Photoshop, HTML, CSS, Bootstrap, and WordPress).
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
-Languages and Tools: 
+In addition to my professional experience, I’ve received 3 Sparkle awards for flexibility, dedicated efforts, and extreme productivity within the 100% SLA with 100% quality, and the Best Integrator for the Year award from vSplash Techlabs Private Limited which has given me great strength to take a step forward for building my career as a full stack web developer by Learing skills like (HTML, CSS, Bootstrap, JavaScript, jQuery, React Js, Node Js and MongoDB)
 
 <!--
 **RavikiranUIDeveloper/RavikiranUIDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
